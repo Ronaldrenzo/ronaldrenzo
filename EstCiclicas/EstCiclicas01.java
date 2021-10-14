@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Random;
 import java.io.Console;
 
-public class EstCiclicas{  
+public class EstCiclicas01{  
  static Scanner sc=new Scanner(System.in);
  //para leer    valores del teclado
  static final Random generator = new Random();
